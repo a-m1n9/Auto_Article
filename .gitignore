@@ -1,0 +1,23 @@
+# 环境变量 (包含API密钥)
+.env
+
+# 输出文件
+output/
+temp/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 配置文件 (可能含敏感信息)
+config.yaml
+
+# 输入文件
+input/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
